@@ -1,5 +1,7 @@
-Environmenrt set up
+Environment set up
 
 >pip install langchain
+
 >pip install openai
+
 >pip install pypdf
