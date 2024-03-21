@@ -5,3 +5,7 @@ Environment set up
 >pip install openai
 
 >pip install pypdf
+
+>pip install yt_dlp
+
+>pip install pydub
