@@ -9,3 +9,5 @@ Environment set up
 >pip install yt_dlp
 
 >pip install pydub
+
+>pip install python-dotenv
